@@ -55,4 +55,7 @@ For best results, the sprites should be of the same width (or height) than the s
 
 You can add more infinite scrolls with different speeds and zOrder to create a parallax effect.
 
-http://www.danialias.com/news/wp-content/uploads/2023/12/InfiniteScrollNodeDemo.mp4
+
+
+https://github.com/danialias/InfiniteScrollNode/assets/25404038/d776d98c-7835-4b19-855c-712cfdcf24a1
+
