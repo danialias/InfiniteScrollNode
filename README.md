@@ -54,3 +54,5 @@ Call `addInfiniteScrollXWithZ` for horizontal scroll, and `addInfiniteScrollYWit
 For best results, the sprites should be of the same width (or height) than the screen. 
 
 You can add more infinite scrolls with different speeds and zOrder to create a parallax effect.
+
+http://www.danialias.com/news/wp-content/uploads/2023/12/InfiniteScrollNodeDemo.mp4
