@@ -44,7 +44,7 @@ this->addChild(scroll);
 
 float scrollSpeedX = -5;
 float scrollSpeedY = 0;
-scroll->updateWithVelocity(Point(scrollSpeedX, scrollSpeedY), delta); // For horizontal speed. Keep Y value at 0
+scroll->updateWithVelocity(Point(scrollSpeedX, scrollSpeedY), delta);
 ```
 
 Call `addInfiniteScrollXWithZ` for horizontal scroll, and `addInfiniteScrollYWithZ` for vertical. The values are `z`, `ratio` and `position`. 
