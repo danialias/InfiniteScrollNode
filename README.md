@@ -59,3 +59,5 @@ You can add more infinite scrolls with different speeds and zOrder to create a p
 
 https://github.com/danialias/InfiniteScrollNode/assets/25404038/d776d98c-7835-4b19-855c-712cfdcf24a1
 
+
+(Recorded with the emulator, sorry for the bad framerate)
