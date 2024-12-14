@@ -10,7 +10,7 @@ CCParallaxScrollNode was originally created for Cocos2d in Objective-C by Aram K
 * [Original CCParallaxScrollNode for Cocos2d, Created by Aram Kocharyan](https://github.com/aramk/cocos2d)
 * [First port for Cocos2d-x, created by Jason Marziani](https://github.com/jasonmarziani/CCParallaxScrollNode)
 * [Second port for Cocos2d-x v3.x, created by Stefan Nguyen](https://github.com/stnguyen/CCParallaxScrollNode)
-* [Thrid port for Cocos2d-x v.2.2.2, created by seenu19](https://github.com/seenu19/CCParallaxScrollNode)
+* [Third port for Cocos2d-x v.2.2.2, created by seenu19](https://github.com/seenu19/CCParallaxScrollNode)
 
 ## How to use
 
